@@ -8,8 +8,9 @@ tf_env/
 venv/
 
 # Data
-data/
 FER-2013/
+train/
+test/
 *.zip
 
 # Jupyter
